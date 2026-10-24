@@ -6,7 +6,7 @@
 
 ![产品介绍](assets/banner.svg)
 
-[![下载](https://img.shields.io/badge/下载-DMG-brightgreen)](https://github.com/jhtnba/mimi/releases/latest) [![版本](https://img.shields.io/badge/版本-0.2.45-blue)](https://github.com/jhtnba/mimi/releases) [![系统](https://img.shields.io/badge/平台-macOS-black)](docs/INSTALL.md)
+[![下载](https://img.shields.io/badge/下载-DMG-brightgreen)](https://github.com/jhtnba/mimi/releases/latest) [![版本](https://img.shields.io/badge/版本-0.2.48-blue)](https://github.com/jhtnba/mimi/releases) [![系统](https://img.shields.io/badge/平台-macOS-black)](docs/INSTALL.md)
 
 [下载应用](https://github.com/jhtnba/mimi/releases/latest) · [使用方法](docs/GUIDE.md) · [更新记录](CHANGELOG.md) · [常见问题](docs/FAQ.md) · [反馈问题](https://github.com/jhtnba/mimi/issues/new/choose)
 
@@ -27,9 +27,9 @@
 
 ## 下载与安装
 
-当前版本 **0.2.45（build 51）**。当前发布包面向 **Apple Silicon Mac**，要求 **macOS 15 或更新版本**。
+当前版本 **0.2.48（build 54）**。当前发布包面向 **Apple Silicon Mac**，要求 **macOS 15 或更新版本**。
 
-1. 前往 [Releases](https://github.com/jhtnba/mimi/releases/latest)，下载 `咪咪-0.2.45-macOS.dmg`。
+1. 前往 [Releases](https://github.com/jhtnba/mimi/releases/latest)，下载 `咪咪-0.2.48.dmg`。
 2. 打开 DMG，把 App 拖到“应用程序”。
 3. 从“应用程序”启动。详细步骤见[安装指南](docs/INSTALL.md)。
 
